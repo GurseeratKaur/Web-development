@@ -1,3 +1,6 @@
 [submodule "automatic-slider"]
 	path = automatic-slider
 	url = ./automatic-slider
+[submodule "manual-slider"]
+	path = manual-slider
+	url = ./manual-slider
