@@ -3,4 +3,4 @@
 	url = ./automatic-slider
 [submodule "manual-slider"]
 	path = manual-slider
-	url = ./manual-slider
+	url = https://github.com/GurseeratKaur/Manual-slider.git
